@@ -1,0 +1,13 @@
+java.net
+InetAddress
+Inet4Address
+getByName()
+getAddress()
+getHostAddress()
+isAnyLocalAddress()
+@Native static final int PREFER_IPV4_VALUE=0;
+@Native static final int PREFER_IPV6_VALUE=1;
+@Native static final int PREFER_SYSTEM_VALUE=2;
+@Native static final int IPV4=1;
+
+Image handling
